@@ -1,5 +1,5 @@
 Feature: Login bem-sucedido
-    @TestCaseKey=SCRUM-T1
+    @TestCaseKey=SWAG-T1
     Scenario: Login bem-sucedido
         
         Given página de login da loja virtual 

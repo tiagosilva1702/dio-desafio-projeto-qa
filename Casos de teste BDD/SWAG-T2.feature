@@ -1,5 +1,5 @@
 Feature: Tentativa de Login com Credenciais Inválidas
-    @TestCaseKey=SCRUM-T2
+    @TestCaseKey=SWAG-T2
     Scenario: Tentativa de acesso com login e senha inválido
         
         Given página de login da loja virtual 
