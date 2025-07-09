@@ -1,0 +1,12 @@
+Caso de Teste 1 - Cadastro bem-sucedido
+
+1. Usuário acessa a página de registro da loja virtual.
+2. Usuário preenche o campo "Nome do usuário" com "TiagoSilva"
+3. Usuário preenche o campo "Nome" com "Tiago Silva"
+4. Usuário preenche o campo "Data Nascimento" com "17/02/1989"
+5. Usuário preenche o campo "CPF" com "xxx.xxx.xxx-xx"
+6. Usuário preenche o campo "E-mail" com "tiago.silva@email.com"
+7. Usuário preenche o campo "Senha" com "123456"
+8. Usuário preenche o campo "Confirmar senha" com "123456"
+9. Usuário clica no botão "Confirmar"
+10. Sistema exibe mensagem de confirmação de cadastro com sucesso

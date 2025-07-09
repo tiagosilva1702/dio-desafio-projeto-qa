@@ -1,0 +1,7 @@
+Caso de Teste 2 - Cadastro sem preencher campos obrigatórios 
+
+1. Usuário acessa a página de registro da loja virtual.
+2. Usuário preenche o campo "Nome do usuário" com "TiagoSilva"
+3. Usuário preenche o campo "Nome" com "Tiago Silva"
+9. Usuário clica no botão "Confirmar"
+10. Sistema exibe mensagem de erro indicando que os campos obrigatórios não foram preenchidos
